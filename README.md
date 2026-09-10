@@ -132,22 +132,6 @@ A few things in this build go beyond a typical portfolio project:
 
 ---
 
-## Screenshot Checklist
-
-Drop real captures into an `assets/` folder next to this file and update the placeholders above as they're filled in:
-
-- [ ] Homepage / hero
-- [ ] Dashboard (streak, XP heatmap, activity chart)
-- [ ] Lesson player (mid-exercise)
-- [ ] Reading & Listening view
-- [ ] Speaking practice screen
-- [ ] Writing editor
-- [ ] Comics reader
-- [ ] Flashcard game
-- [ ] Leaderboard
-- [ ] Mobile view (at least one dashboard or lesson screen)
-
----
 
 ## Try It
 
