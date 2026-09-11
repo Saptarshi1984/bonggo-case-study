@@ -130,7 +130,9 @@ A few things in this build go beyond a typical portfolio project:
 ---
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![BongGo - Intro | Bengali Language Learning | Website](https://ytcards.demolab.com/?id=yiHl1COn2P4&title=BongGo+-+Intro+%7C+Bengali+Language+Learning+%7C+Website&lang=en&timestamp=1789126064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "BongGo - Intro | Bengali Language Learning | Website")](https://www.youtube.com/watch?v=yiHl1COn2P4)
+[![AI Bengali Language Tutor | Demo](https://ytcards.demolab.com/?id=7gRhgvs33Es&title=AI+Bengali+Language+Tutor+%7C+Demo&lang=en&timestamp=1789050424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AI Bengali Language Tutor | Demo")](https://www.youtube.com/watch?v=7gRhgvs33Es)
+[![BongGo | Language Learning | Discussion](https://ytcards.demolab.com/?id=SRleK6QWDig&title=BongGo+%7C+Language+Learning+%7C+Discussion&lang=en&timestamp=1776360726&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "BongGo | Language Learning | Discussion")](https://www.youtube.com/watch?v=SRleK6QWDig)
 <!-- END YOUTUBE-CARDS -->
 
 ---
