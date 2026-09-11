@@ -127,11 +127,13 @@ A few things in this build go beyond a typical portfolio project:
 - **Decoupled media**: audio and images are served from a dedicated CDN host rather than the database or app bundle, keeping the deployment lean.
 - **Server-trusted compliance state**: minor status and consent state live in the session token and the database — not just client-side flags — so downstream systems (ads, content-gating) can trust them.
 
-<!-- SCREENSHOT: architecture diagram (optional — can be a simple exported diagram) -->
-<!-- ./assets/architecture.png -->
-
 ---
 
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
+
+---
 
 ## Try It
 
