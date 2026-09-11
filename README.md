@@ -127,11 +127,6 @@ A few things in this build go beyond a typical portfolio project:
 - **Decoupled media**: audio and images are served from a dedicated CDN host rather than the database or app bundle, keeping the deployment lean.
 - **Server-trusted compliance state**: minor status and consent state live in the session token and the database — not just client-side flags — so downstream systems (ads, content-gating) can trust them.
 
----
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![BongGo - Intro | Bengali Language Learning | Website](https://ytcards.demolab.com/?id=yiHl1COn2P4&title=BongGo+-+Intro+%7C+Bengali+Language+Learning+%7C+Website&lang=en&timestamp=1789126064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 ]
-<!-- END YOUTUBE-CARDS -->
 
 ---
 
